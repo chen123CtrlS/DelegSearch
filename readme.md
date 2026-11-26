@@ -5,7 +5,7 @@ More details can be seen in details.pdf~
 
 ## Data Structure
 
-![pipeline](DelegSearch\pipeline.png)
+![pipeline](DelegSearch/pipeline.png)
 
 Each benchmark record has the following top-level fields:
 
